@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">I'm Jordan, a passionate fullstack developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanmarcos&label=Profile%20views&color=f59b00&style=flat-square" alt="jordanmarcos" /> </p>
