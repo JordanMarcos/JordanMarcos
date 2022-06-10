@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://marcos-jordan.com/](https://marcos-jordan.com/)
 
-- 💬 Ask me about **react, redux and express**
-
 - 📫 How to reach me **jordan.marcos.santiago@gmail.com**
 
 - 📄 Know about my experiences [https://www.docdroid.net/tjWHTyv/cv-jordanmarcosen-pdf](https://www.docdroid.net/tjWHTyv/cv-jordanmarcosen-pdf)
