@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jordan.marcos.santiago@gmail.com**
 
-- 📄 Know about my experiences [https://www.docdroid.net/tjWHTyv/cv-jordanmarcosen-pdf]
+- 📄 Know about my experiences [https://docdro.id/V1L46bW](https://docdro.id/V1L46bW)
 
 - ⚡ Fun fact **I love fast food**
 
